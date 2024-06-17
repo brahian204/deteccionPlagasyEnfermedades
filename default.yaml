@@ -1,0 +1,9 @@
+Last loaded image folder: C:/Users/BRAHIAN SANCHEZ/Documents/data_Django/image_acquisition/Plagas/img_aug/images
+Last loaded image name: TUimcrop (74).jpg
+Last loaded label folder: C:/Users/BRAHIAN SANCHEZ/Documents/data_Django/image_acquisition/Plagas/img_aug/labels
+check_ls: null
+classes: []
+conf: 0.1
+filter_conf: 0.85
+iou: 0.5
+model: C:/Users/BRAHIAN SANCHEZ/Documents/data_Django/image_acquisition/models/detect_plg.pt

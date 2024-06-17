@@ -1,0 +1,8 @@
+mosca blanca
+araña roja
+gusano del tomate
+trips
+person
+car
+bicycle
+bus

@@ -1,0 +1,7 @@
+mosca blanca
+person
+gusano del tomate
+trips
+car
+bicycle
+bus

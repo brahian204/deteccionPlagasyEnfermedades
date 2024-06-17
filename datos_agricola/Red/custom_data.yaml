@@ -1,0 +1,7 @@
+train: C:/Users/BRAHIAN SANCHEZ/Documents/data_Django/image_acquisition/data/mosca/train
+val: C:/Users/BRAHIAN SANCHEZ/Documents/data_Django/image_acquisition/data/mosca/valid
+# number of classes
+nc: 1
+
+# class names
+names: ['mosca blanca']
